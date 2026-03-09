@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MAIL-88",
+    "title": "Customer escalations: checkout failures",
+    "body": "Enterprise account managers flagged high-priority complaints tied to checkout timeout.",
+    "owner": "Sonia",
+    "timestamp": "2026-03-01T03:45:00Z",
+    "tags": ["customer", "escalation"],
+    "urgency_hint": "high",
+    "task_key": "PAY-500"
+  },
+  {
+    "id": "MAIL-89",
+    "title": "Security review follow-up",
+    "body": "Please share remediation ETA for open auth findings.",
+    "owner": "Dev",
+    "timestamp": "2026-02-27T09:00:00Z",
+    "tags": ["security"],
+    "urgency_hint": "medium",
+    "task_key": "SEC-77"
+  }
+]

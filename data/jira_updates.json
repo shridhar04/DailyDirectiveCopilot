@@ -1,0 +1,22 @@
+[
+  {
+    "id": "JIRA-101",
+    "title": "Payment API timeout in production",
+    "body": "Critical incident reported by support, checkout failing for subset of users.",
+    "owner": "Priya",
+    "timestamp": "2026-03-01T04:10:00Z",
+    "tags": ["incident", "backend"],
+    "urgency_hint": "critical",
+    "task_key": "PAY-500"
+  },
+  {
+    "id": "JIRA-102",
+    "title": "Finalize Q2 roadmap draft",
+    "body": "Need stakeholder signoff by Tuesday.",
+    "owner": "Rahul",
+    "timestamp": "2026-02-28T14:00:00Z",
+    "tags": ["planning"],
+    "urgency_hint": "medium",
+    "task_key": "PM-220"
+  }
+]

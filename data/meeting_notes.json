@@ -1,0 +1,22 @@
+[
+  {
+    "id": "NOTE-7",
+    "title": "Payment API timeout in production",
+    "body": "Leadership asked for hourly status updates until incident is resolved.",
+    "owner": "Priya",
+    "timestamp": "2026-03-01T05:00:00Z",
+    "tags": ["leadership", "incident"],
+    "urgency_hint": "critical",
+    "task_key": "PAY-500"
+  },
+  {
+    "id": "NOTE-8",
+    "title": "Onboarding flow revamp",
+    "body": "Design handoff is delayed; PM requested revised estimate.",
+    "owner": "Karan",
+    "timestamp": "2026-02-28T12:15:00Z",
+    "tags": ["product", "ux"],
+    "urgency_hint": "low",
+    "task_key": "UX-19"
+  }
+]
